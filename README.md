@@ -1,5 +1,4 @@
 # zero-shot hate speech detection for text-embedded images
-# Multimodal Hate Speech Event Detection 2024 Solution
 
 This repository is set to be made public soon. It contains the solution for the Multimodal Hate Speech Event Detection 2024 shared task at the 7th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE @ EACL 2024). Our approach leverages the LLaVA 1.5 vision-language model to perform zero-shot detection of hate speech in text-embedded images.
 
