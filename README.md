@@ -16,10 +16,6 @@ If you find our work useful, please consider citing our paper:
 @inproceedings{yamagishi-2024-yyama,
     title = "{YY}ama@Multimodal Hate Speech Event Detection 2024: Simpler Prompts, Better Results - Enhancing Zero-shot Detection with a Large Multimodal Model",
     author = "Yamagishi, Yosuke",
-    editor = {H{\"u}rriyeto{\u{g}}lu, Ali  and
-      Tanev, Hristo  and
-      Thapa, Surendrabikram  and
-      Uludo{\u{g}}an, G{\"o}k{\c{c}}e},
     booktitle = "Proceedings of the 7th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2024)",
     month = mar,
     year = "2024",
