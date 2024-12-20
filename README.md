@@ -7,6 +7,13 @@ This repository is set to be made public soon. It contains the solution for the 
 - Utilizes the LLaVA 1.5 vision-language model for zero-shot hate speech detection.
 - Capable of detecting hate speech in images that contain embedded text.
 
+## Implementation
+The repository includes a Jupyter notebook (`notebooks/llava_hate_detection.ipynb`) that demonstrates the implementation of our approach. The notebook covers:
+
+- Loading and preparation of the LLaVA 1.5 model
+- Processing of text-embedded images
+- Zero-shot inference for hate speech detection
+
 ## Citation
 
 If you find our work useful, please consider citing our paper:
